@@ -1,0 +1,48 @@
+[core]
+	autocrlf = true
+	pager = cat
+[user]
+	name = Viacheslav Bogatikov
+	email = v.bohatikov@gmail.com
+[alias]
+	p = pull -p -P
+	pr = pull -p -P --rebase=preserve
+	f = fetch -p -P
+	co = checkout
+	st = status
+	c = commit
+	a = add
+	m = merge
+	graph = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)'
+	graph-ex = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'
+	fd = diff HEAD~ --
+	cl = clean
+	r = reset
+	rs = reset --soft
+	rh = reset --hard
+	dt = difftool
+	mt = mergetool
+	ma = merge --abort
+	cob = checkout -b
+	ss = stash save
+	sp = stash pop
+	sa = stash apply
+	cg = config
+	cgg = config --global
+	cgl = config --local
+	ignore = update-index --skip-worktree
+	unignore = update-index --no-skip-worktree
+	ignored = !git ls-files -v | grep ^S
+	ca = commit --amend
+	dtc = difftool --cached
+[merge]
+	tool = kdiff3
+	conflictstyle = diff3
+[mergetool "kdiff3"]
+	path = C:\\Program Files\\KDiff3/kdiff3.exe
+	trustExitCode = false
+[diff]
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = C:/Program Files/KDiff3/kdiff3.exe
+	trustExitCode = false
