@@ -1,0 +1,2 @@
+In "Documents" find "WindowsPowerShell" folder, in there will be "Microsoft.PowerShell_profile" file. 
+You must add "Import-Module '<Path to shared settings folder>\psfunctions.psm1'".
