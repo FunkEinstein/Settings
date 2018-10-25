@@ -5,8 +5,8 @@
 	name = Viacheslav Bogatikov
 	email = v.bohatikov@gmail.com
 [alias]
-	p = pull -p -P
-	pr = pull -p -P --rebase=preserve
+	p = pull
+	pr = pull --rebase=preserve
 	f = fetch -p -P
 	co = checkout
 	st = status
