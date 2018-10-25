@@ -1,1 +1,5 @@
+mklink [[/d] | [/h] | [/j]] <Link> <Target>
+Link - Specifies the name of the symbolic link that is being created.
+Target - Specifies the path (relative or absolute) that the new symbolic link refers to.
+
 mklink C:\Users\Viacheslav\.gitconfig D:\Projects\.gitconfig
