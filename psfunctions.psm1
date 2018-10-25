@@ -84,10 +84,10 @@ function docs {
 
 function add-path {
     Param([string]$path, [string]$target)
-    
+	
     $target = $target.ToLower()
-    if ($target -eq "m") { $envVeriableTarget = [EnvironmentVariableTarget]::Machine }
     if ($target -eq "u" -or [string]::IsNullOrEmpty($target)) { $envVeriableTarget = [EnvironmentVariableTarget]::User }
+	elseif ($target -eq "m") { $envVeriableTarget = [EnvironmentVariableTarget]::Machine }
 
     $newEnvPath = $env:Path + ";" + $path
     [Environment]::SetEnvironmentVariable("Path", $newEnvPath, $envVeriableTarget)
@@ -98,8 +98,8 @@ function get-path {
     Param([string]$target)
     
     $target = $target.ToLower()
-    if ($target -eq "m") { $envVeriableTarget = [EnvironmentVariableTarget]::Machine }
     if ($target -eq "u" -or [string]::IsNullOrEmpty($target)) { $envVeriableTarget = [EnvironmentVariableTarget]::User }
+	elseif ($target -eq "m") { $envVeriableTarget = [EnvironmentVariableTarget]::Machine }
 
     [Environment]::GetEnvironmentVariable("Path", $envVeriableTarget)
 }
