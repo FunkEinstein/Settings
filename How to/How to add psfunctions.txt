@@ -1,2 +1,3 @@
 In "Documents" find "WindowsPowerShell" folder, in there will be "Microsoft.PowerShell_profile" file. 
-You must add "Import-Module '<Path to shared settings folder>\psfunctions.psm1'".
+You must add "Import-Module $PSScriptRoot\psfunctions.psm1" into profile and make link in power shell 
+dirrectory to real location of file.

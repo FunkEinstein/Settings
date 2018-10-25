@@ -1,5 +1,7 @@
-﻿function change-functions {
-    start "C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe" "D:\Documents\WindowsPowerShell\psfunctions.psm1"
+﻿# Should be located in %DocumentFolder%\WindowsPowerShall folder by mklink
+
+function change-functions {
+    start "C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe" $PSScriptRoot\psfunctions.psm1
 }
 
 function npp { 
