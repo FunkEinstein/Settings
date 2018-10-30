@@ -1,71 +1,75 @@
 <UserSettings>
-  <ApplicationIdentity version="15.0" />
+  <ApplicationIdentity version="15.0"/>
   <ToolsOptions>
-    <ToolsOptionsCategory name="Environment" RegisteredName="Environment" />
+    <ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
   </ToolsOptions>
   <Category name="Environment_Group" RegisteredName="Environment_Group">
-    <Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}"
-              Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings"
-              PackageName="Visual Studio Environment Package">
+    <Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
       <Version>15.0.0.0</Version>
       <KeyboardShortcuts>
         <ScopeDefinitions>
-          <Scope Name="Team Explorer" ID="{7AA20502-9463-47B7-BF43-341BAF51157C}" />
-          <Scope Name="VC Dialog Editor" ID="{543E0C02-8C85-4E43-933A-5EF320E3431F}" />
-          <Scope Name="Find All References Tool Window" ID="{1FA1FD06-3592-4D1D-AC75-0B953320140C}" />
-          <Scope Name="Live Property Explorer" ID="{31FC2115-5126-4A87-B2F7-77EAAB65048B}" />
-          <Scope Name="XML (Text) Editor" ID="{FA3CD31E-987B-443A-9B81-186104E8DAC1}" />
-          <Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}" />
-          <Scope Name="Microsoft SQL Server Data Tools, T-SQL PDW Editor" ID="{C9626B29-6A42-411C-BD76-DAD855C86913}" />
-          <Scope Name="Work Item Results View" ID="{7026002D-01F6-44E7-95CF-A896C00DA3F8}" />
-          <Scope Name="ADO.NET Entity Data Model Designer" ID="{C99AEA30-8E36-4515-B76F-496F5A48A6AA}" />
-          <Scope Name="Solution Explorer" ID="{3AE79031-E1BC-11D0-8F78-00A0C9110057}" />
-          <Scope Name="Query Designer" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}" />
-          <Scope Name="CSharp Editor with Encoding" ID="{08467B34-B90F-4D91-BDCA-EB8C8CF3033A}" />
-          <Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}" />
-          <Scope Name="CSS Editor" ID="{A5401142-F49D-43DB-90B1-F57BA349E55C}" />
-          <Scope Name="Graphics Designers" ID="{58961B49-13E0-48C0-9258-13CBC4D40279}" />
-          <Scope Name="AppManifestDesigner" ID="{4D47164B-07B6-4A52-A855-728D6A2E2AA3}" />
-          <Scope Name="DataSet Editor" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}" />
-          <Scope Name="XAML Designer" ID="{E9B8485C-1217-4277-9ED6-C825A5AC1968}" />
-          <Scope Name="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}" ID="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}" />
-          <Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}" />
-          <Scope Name="XAML Editor" ID="{A4F9FF65-A78C-4650-866D-5069CC4127CF}" />
-          <Scope Name="Microsoft SQL Server Data Tools, Table Designer" ID="{2366CF66-2394-4701-AFCA-37ED7FD41648}" />
-          <Scope Name="Microsoft Visual Basic Editor" ID="{2C015C70-C72C-11D0-88C3-00A0C9110049}" />
-          <Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}" />
-          <Scope Name="HTML Editor" ID="{40D31677-CBC0-4297-A9EF-89D907823A98}" />
-          <Scope Name="Live Visual Tree" ID="{A2EAF38F-A0AD-4503-91F8-5F004A69A040}" />
-          <Scope Name="Work Item Query View" ID="{B6303490-B828-410C-9216-AE727D0E282D}" />
-          <Scope Name="DOM Explorer" ID="{01E50993-E6A4-491E-AB3F-3A9939DE3524}" />
-          <Scope Name="Team Foundation Build Detail Editor" ID="{86306A97-84F2-4F5A-889B-1318501AEB5F}" />
-          <Scope Name="Database Designer" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}" />
-          <Scope Name="Work Item Editor" ID="{40A91D9D-8076-4D28-87C5-5AF9F0ACFE0F}" />
-          <Scope Name="JSON Editor" ID="{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}" />
-          <Scope Name="CSharp Editor" ID="{A6C744A8-0E4A-4FC6-886A-064283054674}" />
-          <Scope Name="VC String Editor" ID="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}" />
-          <Scope Name="Interactive Window" ID="{2D0A56AA-9527-4B78-B6E6-EBE6E05DA749}" />
-          <Scope Name="Merge Editor Window" ID="{9A9A8AAA-ACD2-4DB6-BD81-8D64176C52B6}" />
-          <Scope Name="Microsoft Visual Basic Code Page Editor" ID="{6C33E1AA-1401-4536-AB67-0E21E6E569DA}" />
-          <Scope Name="Settings Designer" ID="{515231AD-C9DC-4AA3-808F-E1B65E72081C}" />
-          <Scope Name="Windows Forms Designer" ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}" />
-          <Scope Name="VC Accelerator Editor" ID="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}" />
-          <Scope Name="Managed Resources Editor" ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}" />
-          <Scope Name="FSharpEditorFactory" ID="{8A5AA6CF-46E3-4520-A70A-7393D15233E9}" />
-          <Scope Name="JavaScript Console" ID="{074F1AD9-308B-488C-861E-CF88182E2788}" />
-          <Scope Name="Difference Viewer" ID="{79D52DDF-52BC-43F1-9663-B3E85CDCA912}" />
-          <Scope Name="Microsoft SQL Server Data Tools, Schema Compare" ID="{00E9D2E3-9044-47D1-978C-BE2825249219}" />
-          <Scope Name="Table Designer" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}" />
-          <Scope Name="HTML Editor Design View" ID="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}" />
-          <Scope Name="HTML Editor Source View" ID="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}" />
-          <Scope Name="VC Image Editor" ID="{C0BA70ED-069E-412B-9C06-7442E28A11B9}" />
-          <Scope Name="Microsoft SQL Server Data Tools, T-SQL Editor" ID="{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}" />
-          <Scope Name="Query Results" ID="{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}" />
-          <Scope Name="Test Explorer" ID="{E1B7D1F8-9B3C-49B1-8F4F-BFC63A88835D}" />
-          <Scope Name="XML Schema Designer" ID="{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}" />
+          <Scope Name="Team Explorer" ID="{7AA20502-9463-47B7-BF43-341BAF51157C}"/>
+          <Scope Name="VC Dialog Editor" ID="{543E0C02-8C85-4E43-933A-5EF320E3431F}"/>
+          <Scope Name="Find All References Tool Window" ID="{1FA1FD06-3592-4D1D-AC75-0B953320140C}"/>
+          <Scope Name="Live Property Explorer" ID="{31FC2115-5126-4A87-B2F7-77EAAB65048B}"/>
+          <Scope Name="XML (Text) Editor" ID="{FA3CD31E-987B-443A-9B81-186104E8DAC1}"/>
+          <Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}"/>
+          <Scope Name="Microsoft SQL Server Data Tools, T-SQL PDW Editor" ID="{C9626B29-6A42-411C-BD76-DAD855C86913}"/>
+          <Scope Name="Work Item Results View" ID="{7026002D-01F6-44E7-95CF-A896C00DA3F8}"/>
+          <Scope Name="ADO.NET Entity Data Model Designer" ID="{C99AEA30-8E36-4515-B76F-496F5A48A6AA}"/>
+          <Scope Name="Solution Explorer" ID="{3AE79031-E1BC-11D0-8F78-00A0C9110057}"/>
+          <Scope Name="Query Designer" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}"/>
+          <Scope Name="CSharp Editor with Encoding" ID="{08467B34-B90F-4D91-BDCA-EB8C8CF3033A}"/>
+          <Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/>
+          <Scope Name="CSS Editor" ID="{A5401142-F49D-43DB-90B1-F57BA349E55C}"/>
+          <Scope Name="Graphics Designers" ID="{58961B49-13E0-48C0-9258-13CBC4D40279}"/>
+          <Scope Name="AppManifestDesigner" ID="{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"/>
+          <Scope Name="DataSet Editor" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}"/>
+          <Scope Name="XAML Designer" ID="{E9B8485C-1217-4277-9ED6-C825A5AC1968}"/>
+          <Scope Name="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}" ID="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}"/>
+          <Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/>
+          <Scope Name="XAML Editor" ID="{A4F9FF65-A78C-4650-866D-5069CC4127CF}"/>
+          <Scope Name="Microsoft SQL Server Data Tools, Table Designer" ID="{2366CF66-2394-4701-AFCA-37ED7FD41648}"/>
+          <Scope Name="Microsoft Visual Basic Editor" ID="{2C015C70-C72C-11D0-88C3-00A0C9110049}"/>
+          <Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/>
+          <Scope Name="HTML Editor" ID="{40D31677-CBC0-4297-A9EF-89D907823A98}"/>
+          <Scope Name="Live Visual Tree" ID="{A2EAF38F-A0AD-4503-91F8-5F004A69A040}"/>
+          <Scope Name="Work Item Query View" ID="{B6303490-B828-410C-9216-AE727D0E282D}"/>
+          <Scope Name="DOM Explorer" ID="{01E50993-E6A4-491E-AB3F-3A9939DE3524}"/>
+          <Scope Name="Team Foundation Build Detail Editor" ID="{86306A97-84F2-4F5A-889B-1318501AEB5F}"/>
+          <Scope Name="Database Designer" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}"/>
+          <Scope Name="Work Item Editor" ID="{40A91D9D-8076-4D28-87C5-5AF9F0ACFE0F}"/>
+          <Scope Name="JSON Editor" ID="{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"/>
+          <Scope Name="CSharp Editor" ID="{A6C744A8-0E4A-4FC6-886A-064283054674}"/>
+          <Scope Name="VC String Editor" ID="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}"/>
+          <Scope Name="Interactive Window" ID="{2D0A56AA-9527-4B78-B6E6-EBE6E05DA749}"/>
+          <Scope Name="Merge Editor Window" ID="{9A9A8AAA-ACD2-4DB6-BD81-8D64176C52B6}"/>
+          <Scope Name="Microsoft Visual Basic Code Page Editor" ID="{6C33E1AA-1401-4536-AB67-0E21E6E569DA}"/>
+          <Scope Name="Settings Designer" ID="{515231AD-C9DC-4AA3-808F-E1B65E72081C}"/>
+          <Scope Name="Windows Forms Designer" ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}"/>
+          <Scope Name="VC Accelerator Editor" ID="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}"/>
+          <Scope Name="Managed Resources Editor" ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}"/>
+          <Scope Name="FSharpEditorFactory" ID="{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"/>
+          <Scope Name="JavaScript Console" ID="{074F1AD9-308B-488C-861E-CF88182E2788}"/>
+          <Scope Name="Difference Viewer" ID="{79D52DDF-52BC-43F1-9663-B3E85CDCA912}"/>
+          <Scope Name="Microsoft SQL Server Data Tools, Schema Compare" ID="{00E9D2E3-9044-47D1-978C-BE2825249219}"/>
+          <Scope Name="Table Designer" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}"/>
+          <Scope Name="HTML Editor Design View" ID="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}"/>
+          <Scope Name="HTML Editor Source View" ID="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}"/>
+          <Scope Name="VC Image Editor" ID="{C0BA70ED-069E-412B-9C06-7442E28A11B9}"/>
+          <Scope Name="Microsoft SQL Server Data Tools, T-SQL Editor" ID="{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"/>
+          <Scope Name="Query Results" ID="{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"/>
+          <Scope Name="Test Explorer" ID="{E1B7D1F8-9B3C-49B1-8F4F-BFC63A88835D}"/>
+          <Scope Name="XML Schema Designer" ID="{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}"/>
         </ScopeDefinitions>
-        <DefaultShortcuts /><ShortcutsScheme>ReSharper (Visual Studio)</ShortcutsScheme>
+        <DefaultShortcuts/>
+        <ShortcutsScheme>ReSharper (Visual Studio)</ShortcutsScheme>
         <UserShortcuts>
+          <RemoveShortcut Command="ReSharper.ReSharper_GotoRecentEdits" Scope="XAML Designer">Ctrl+Shift+,</RemoveShortcut>
+          <RemoveShortcut Command="ReSharper.ReSharper_GotoRecentEdits" Scope="Global">Ctrl+Shift+,</RemoveShortcut>
+          <RemoveShortcut Command="ReSharper.ReSharper_GotoRecentFiles" Scope="Global">Ctrl+,</RemoveShortcut>
+          <RemoveShortcut Command="ReSharper.ReSharper_NavigateTo" Scope="Text Editor">Alt+`</RemoveShortcut>
+          <RemoveShortcut Command="ReSharper.ReSharper_NavigateTo" Scope="Global">Alt+`</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="XAML Designer">Ctrl+R, F</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="XAML Designer">Ctrl+R, Ctrl+F</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="XAML Designer">Ctrl+R, V</RemoveShortcut>
@@ -94,7 +98,6 @@
           <RemoveShortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Text Editor">Ctrl+R, V</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Text Editor">Ctrl+R, Ctrl+V</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_GotoFile" Scope="Text Editor">Ctrl+Shift+F11</RemoveShortcut>
-          <RemoveShortcut Command="Edit.CommentSelection" Scope="Text Editor">Ctrl+Alt+/</RemoveShortcut>
           <RemoveShortcut Command="Edit.ContractseSelection" Scope="Text Editor">Ctrl+Alt+Left Arrow</RemoveShortcut>
           <RemoveShortcut Command="Edit.ExpandSelection" Scope="Text Editor">Ctrl+Alt+Right Arrow</RemoveShortcut>
           <RemoveShortcut Command="Edit.FindAllReferences" Scope="Text Editor">Alt+End</RemoveShortcut>
@@ -115,7 +118,6 @@
           <RemoveShortcut Command="ReSharper_StructuralNavigationBackward" Scope="Global">Ctrl+Alt+Left Arrow</RemoveShortcut>
           <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="CSharp Editor">Ctrl+E, E</RemoveShortcut>
           <RemoveShortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="CSharp Editor">Ctrl+E, Ctrl+E</RemoveShortcut>
-          <RemoveShortcut Command="ReSharper.ReSharper_BlockComment" Scope="Global">Ctrl+Shift+/</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Text Editor">Ctrl+R, Ctrl+S</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Global">Ctrl+R, S</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Global">Ctrl+R, Ctrl+S</RemoveShortcut>
@@ -164,8 +166,6 @@
           <RemoveShortcut Command="ReSharper.ReSharper_IntroduceParameter" Scope="Text Editor">Ctrl+R, P</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_IntroVariable" Scope="Text Editor">Ctrl+R, V</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_IntroVariable" Scope="Text Editor">Ctrl+R, Ctrl+V</RemoveShortcut>
-          <RemoveShortcut Command="ReSharper.ReSharper_LineComment" Scope="Text Editor">Ctrl+Alt+/</RemoveShortcut>
-          <RemoveShortcut Command="ReSharper.ReSharper_LineComment" Scope="XAML Designer">Ctrl+Alt+/</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_Move" Scope="Text Editor">Ctrl+R, Ctrl+O</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_Move" Scope="Text Editor">Ctrl+R, O</RemoveShortcut>
           <RemoveShortcut Command="ReSharper.ReSharper_NavigateBackward" Scope="Global">Ctrl+Num -</RemoveShortcut>
@@ -201,10 +201,7 @@
           <RemoveShortcut Command="Image.UseSelectionasBrush" Scope="VC Image Editor">Ctrl+U</RemoveShortcut>
           <RemoveShortcut Command="InteractiveConsole.SearchHistoryNext" Scope="Interactive Window">Ctrl+Alt+Down Arrow</RemoveShortcut>
           <RemoveShortcut Command="InteractiveConsole.SearchHistoryPrevious" Scope="Interactive Window">Ctrl+Alt+Up Arrow</RemoveShortcut>
-          <RemoveShortcut Command="OtherContextMenus.FSIConsoleContext.ResetInteractiveSession"
-                          Scope="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}">
-            Ctrl+Alt+R
-          </RemoveShortcut>
+          <RemoveShortcut Command="OtherContextMenus.FSIConsoleContext.ResetInteractiveSession" Scope="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}">Ctrl+Alt+R</RemoveShortcut>
           <RemoveShortcut Command="QueryDesigner.CancelRetrievingData" Scope="View Designer">Ctrl+T</RemoveShortcut>
           <RemoveShortcut Command="QueryDesigner.CancelRetrievingData" Scope="Query Designer">Ctrl+T</RemoveShortcut>
           <RemoveShortcut Command="QueryDesigner.Criteria" Scope="Query Designer">Ctrl+2</RemoveShortcut>
@@ -229,19 +226,13 @@
           <RemoveShortcut Command="SQL.ExpandWildcards" Scope="Microsoft SQL Server Data Tools, T-SQL Editor">Ctrl+R, E</RemoveShortcut>
           <RemoveShortcut Command="SQL.ExpandWildcards" Scope="Microsoft SQL Server Data Tools, Table Designer">Ctrl+R, E</RemoveShortcut>
           <RemoveShortcut Command="SQL.TSqlEditorExecuteQuery" Scope="Microsoft SQL Server Data Tools, T-SQL Editor">Ctrl+Shift+E</RemoveShortcut>
-          <RemoveShortcut Command="SQL.TSqlEditorExecuteQuery"
-                          Scope="Microsoft SQL Server Data Tools, T-SQL PDW Editor">
-            Ctrl+Shift+E
-          </RemoveShortcut>
+          <RemoveShortcut Command="SQL.TSqlEditorExecuteQuery" Scope="Microsoft SQL Server Data Tools, T-SQL PDW Editor">Ctrl+Shift+E</RemoveShortcut>
           <RemoveShortcut Command="Table.RowAbove" Scope="HTML Editor Design View">Ctrl+Alt+Up Arrow</RemoveShortcut>
           <RemoveShortcut Command="Table.RowBelow" Scope="HTML Editor Design View">Ctrl+Alt+Down Arrow</RemoveShortcut>
           <RemoveShortcut Command="Team.NewLinkedWorkItem" Scope="Work Item Query View">Shift+Alt+L</RemoveShortcut>
           <RemoveShortcut Command="Team.NewLinkedWorkItem" Scope="Work Item Results View">Shift+Alt+L</RemoveShortcut>
           <RemoveShortcut Command="Team.NewLinkedWorkItem" Scope="Work Item Editor">Shift+Alt+L</RemoveShortcut>
-          <RemoveShortcut Command="TeamFoundationContextMenus.MyWorkPageInProgress.TfsContextMyWorkPageNewLinkedWI"
-                          Scope="Team Explorer">
-            Shift+Alt+L
-          </RemoveShortcut>
+          <RemoveShortcut Command="TeamFoundationContextMenus.MyWorkPageInProgress.TfsContextMyWorkPageNewLinkedWI" Scope="Team Explorer">Shift+Alt+L</RemoveShortcut>
           <RemoveShortcut Command="View.ASP.NETNonvisualControls" Scope="HTML Editor Design View">Ctrl+Shift+N</RemoveShortcut>
           <RemoveShortcut Command="View.EntityDataModelBrowser" Scope="ADO.NET Entity Data Model Designer">Ctrl+1</RemoveShortcut>
           <RemoveShortcut Command="View.EntityDataModelMappingDetails" Scope="ADO.NET Entity Data Model Designer">Ctrl+2</RemoveShortcut>
@@ -250,8 +241,6 @@
           <RemoveShortcut Command="XsdDesigner.ShowContentModelView" Scope="XML Schema Designer">Ctrl+2</RemoveShortcut>
           <RemoveShortcut Command="XsdDesigner.ShowGraphView" Scope="XML Schema Designer">Ctrl+3</RemoveShortcut>
           <RemoveShortcut Command="XsdDesigner.ShowStartView" Scope="XML Schema Designer">Ctrl+1</RemoveShortcut>
-          <RemoveShortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="Text Editor">F12</RemoveShortcut>
-          <RemoveShortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="XAML Designer">F12</RemoveShortcut>
           <Shortcut Command="Table.ColumntotheLeft" Scope="HTML Editor Design View">Ctrl+Alt+Left Arrow</Shortcut>
           <Shortcut Command="Table.ColumntotheRight" Scope="HTML Editor Design View">Ctrl+Alt+Right Arrow</Shortcut>
           <Shortcut Command="Debug.Autos" Scope="Global">Ctrl+Alt+V, A</Shortcut>
@@ -260,35 +249,15 @@
           <Shortcut Command="Debug.Locals" Scope="Global">Ctrl+Alt+V, L</Shortcut>
           <Shortcut Command="Debug.ShowAll" Scope="Global">Ctrl+Alt+V, D</Shortcut>
           <Shortcut Command="Debug.StepIntoSpecific" Scope="Global">Shift+Alt+F11</Shortcut>
-          <Shortcut Command="Edit.GoToFindCombo" Scope="Global">Ctrl+/</Shortcut>
           <Shortcut Command="Edit.GoToMember" Scope="Global">Alt+\</Shortcut>
           <Shortcut Command="Edit.GoToNextIssueinFile" Scope="Text Editor">Alt+PgDn</Shortcut>
           <Shortcut Command="Edit.GoToPreviousIssueinFile" Scope="Text Editor">Alt+PgUp</Shortcut>
           <Shortcut Command="Edit.LineTranspose" Scope="Text Editor">Shift+Alt+T</Shortcut>
-          <Shortcut Command="Edit.NavigateTo" Scope="Global">Ctrl+,</Shortcut>
-          <Shortcut Command="Edit.ShowNavigateMenu" Scope="Text Editor">Alt+`</Shortcut>
-          <Shortcut Command="Image.ZoomOut" Scope="VC Image Editor">Ctrl+Shift+,</Shortcut>
-          <Shortcut Command="MoveLeftEdgetotheleft" Scope="XAML Designer">Ctrl+Shift+,</Shortcut>
-          <Shortcut Command="OtherContextMenus.FSIConsoleContext.StartDebugging"
-                    Scope="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}">
-            Ctrl+Alt+D
-          </Shortcut>
-          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Down5"
-                    Scope="ADO.NET Entity Data Model Designer">
-            Alt+PgDn
-          </Shortcut>
-          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.ToBottom"
-                    Scope="ADO.NET Entity Data Model Designer">
-            Alt+End
-          </Shortcut>
-          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.ToTop"
-                    Scope="ADO.NET Entity Data Model Designer">
-            Alt+Home
-          </Shortcut>
-          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Up5"
-                    Scope="ADO.NET Entity Data Model Designer">
-            Alt+PgUp
-          </Shortcut>
+          <Shortcut Command="OtherContextMenus.FSIConsoleContext.StartDebugging" Scope="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}">Ctrl+Alt+D</Shortcut>
+          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Down5" Scope="ADO.NET Entity Data Model Designer">Alt+PgDn</Shortcut>
+          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.ToBottom" Scope="ADO.NET Entity Data Model Designer">Alt+End</Shortcut>
+          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.ToTop" Scope="ADO.NET Entity Data Model Designer">Alt+Home</Shortcut>
+          <Shortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Up5" Scope="ADO.NET Entity Data Model Designer">Alt+PgUp</Shortcut>
           <Shortcut Command="Refactor.ExtractMethod" Scope="Global">Ctrl+R, Ctrl+M</Shortcut>
           <Shortcut Command="Refactor.ExtractMethod" Scope="Global">Ctrl+R, M</Shortcut>
           <Shortcut Command="Refactor.ReorderParameters" Scope="Global">Ctrl+R, O</Shortcut>
@@ -306,17 +275,10 @@
           <Shortcut Command="TSqlEditorDatabaseCombo" Scope="Microsoft SQL Server Data Tools, T-SQL Editor">Shift+Alt+PgDn</Shortcut>
           <Shortcut Command="TSqlEditorDatabaseCombo" Scope="Microsoft SQL Server Data Tools, T-SQL PDW Editor">Shift+Alt+PgDn</Shortcut>
           <Shortcut Command="View.FindSymbolResults" Scope="Global">Ctrl+Alt+F12</Shortcut>
-          <Shortcut Command="View.ZoomOut" Scope="Global">Ctrl+Shift+,</Shortcut>
           <Shortcut Command="ViewFileInScriptPanel" Scope="Microsoft SQL Server Data Tools, Table Designer">Shift+Alt+PgDn</Shortcut>
-          <Shortcut Command="Window.ActivateWindowSearch" Scope="Global">Alt+`</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ApplyCodeStyle" Scope="XAML Designer">Ctrl+Alt+S</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ApplyCodeStyle" Scope="Text Editor">Ctrl+Alt+S</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ApplyCodeStyle" Scope="Global">Ctrl+Alt+S</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="XAML Designer">Ctrl+Shift+/</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="Text Editor">Ctrl+Shift+/</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Global">Ctrl+`</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="XAML Designer">Ctrl+`</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Text Editor">Ctrl+`</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Text Editor">Ctrl+F6</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="XAML Designer">Ctrl+F6</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Global">Ctrl+F6</Shortcut>
@@ -364,8 +326,6 @@
           <Shortcut Command="ReSharper.ReSharper_GotoBreakpoints" Scope="Global">Ctrl+Alt+F9</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_GotoBreakpoints" Scope="XAML Designer">Ctrl+Alt+F9</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_GotoBreakpoints" Scope="Text Editor">Ctrl+Alt+F9</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_GotoContainingDeclaration" Scope="Text Editor">Ctrl+[</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_GotoContainingDeclaration" Scope="XAML Designer">Ctrl+[</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_GotoDeclaration" Scope="Text Editor">Ctrl+B</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_GotoDeclaration" Scope="XAML Designer">Ctrl+B</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_GotoDeclaration" Scope="Global">Ctrl+B</Shortcut>
@@ -435,8 +395,6 @@
           <Shortcut Command="ReSharper.ReSharper_IntroVariable" Scope="XAML Designer">Ctrl+Alt+V</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_JoinLines" Scope="Text Editor">Ctrl+Shift+J</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_JoinLines" Scope="XAML Designer">Ctrl+Shift+J</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="Text Editor">Ctrl+/</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="XAML Designer">Ctrl+/</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_LiveTemplatesInsert" Scope="Text Editor">Ctrl+J</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_LiveTemplatesInsert" Scope="XAML Designer">Ctrl+J</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_LocateInSolutionOrAssemblyExplorer" Scope="Global">Shift+Alt+L</Shortcut>
@@ -523,12 +481,6 @@
           <Shortcut Command="ReSharper.ReSharper_ShowFindResults" Scope="Global">Ctrl+Alt+U</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ShowFindResults" Scope="Text Editor">Ctrl+Alt+U</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ShowFindResults" Scope="XAML Designer">Ctrl+Alt+U</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Text Editor">Ctrl+Alt+,</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Global">Ctrl+Alt+,</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="XAML Designer">Ctrl+Alt+,</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Global">Ctrl+Alt+.</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Text Editor">Ctrl+Alt+.</Shortcut>
-          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="XAML Designer">Ctrl+Alt+.</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ShowUnitTestExplorer" Scope="Text Editor">Ctrl+Alt+T</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ShowUnitTestExplorer" Scope="XAML Designer">Ctrl+Alt+T</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_ShowUnitTestExplorer" Scope="Global">Ctrl+Alt+T</Shortcut>
@@ -680,9 +632,6 @@
           <Shortcut Command="ReSharper_ParameterInfoGoToPreviousSignature" Scope="XAML Designer">Ctrl+Shift+P</Shortcut>
           <Shortcut Command="ReSharper_PeekDefinitionActionSinceVs12" Scope="Text Editor">Ctrl+Shift+Q</Shortcut>
           <Shortcut Command="ReSharper_PeekDefinitionActionSinceVs12" Scope="XAML Designer">Ctrl+Shift+Q</Shortcut>
-          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="XAML Designer">Ctrl+Shift+[</Shortcut>
-          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="Text Editor">Ctrl+Shift+[</Shortcut>
-          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="Global">Ctrl+Shift+[</Shortcut>
           <Shortcut Command="ReSharper_ToggleInternal" Scope="Text Editor">Ctrl+Shift+Alt+0</Shortcut>
           <Shortcut Command="ReSharper_ToggleInternal" Scope="Global">Ctrl+Shift+Alt+0</Shortcut>
           <Shortcut Command="ReSharper_ToggleInternal" Scope="XAML Designer">Ctrl+Shift+Alt+0</Shortcut>
@@ -695,10 +644,57 @@
           <Shortcut Command="ReSharper_WindowManagerCloseRecentTool" Scope="Global">Ctrl+Shift+F4</Shortcut>
           <Shortcut Command="ReSharper_WindowManagerCloseRecentTool" Scope="Text Editor">Ctrl+Shift+F4</Shortcut>
           <Shortcut Command="ReSharper_WindowManagerCloseRecentTool" Scope="XAML Designer">Ctrl+Shift+F4</Shortcut>
-          <Shortcut Command="Edit.GoToDefinition" Scope="Global">F12</Shortcut>
-          <Shortcut Command="TestExplorer.OpenTest" Scope="Test Explorer">F12</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_NavigateForward" Scope="Global">Ctrl+Alt+Num +</Shortcut>
           <Shortcut Command="ReSharper.ReSharper_NavigateBackward" Scope="Global">Ctrl+Alt+Num -</Shortcut>
+          <Shortcut Command="Window.ActivateWindowSearch" Scope="Global">Alt+·</Shortcut>
+          <Shortcut Command="Edit.NavigateTo" Scope="Global">Ctrl+/</Shortcut>
+          <Shortcut Command="Edit.GoToFindCombo" Scope="Global">Ctrl+\</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Global">Ctrl+Alt+/</Shortcut>
+          <Shortcut Command="View.ZoomOut" Scope="Global">Ctrl+Shift+/</Shortcut>
+          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="Global">Ctrl+Shift+·</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Global">Ctrl+·</Shortcut>
+          <Shortcut Command="Edit.ShowNavigateMenu" Scope="Text Editor">Alt+·</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="Text Editor">Ctrl+\</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Text Editor">Ctrl+Alt+/</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="Text Editor">Ctrl+Shift+\</Shortcut>
+          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="Text Editor">Ctrl+Shift+·</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Text Editor">Ctrl+·</Shortcut>
+          <Shortcut Command="Image.ZoomOut" Scope="VC Image Editor">Ctrl+Shift+/</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="XAML Designer">Ctrl+\</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="XAML Designer">Ctrl+Alt+/</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="XAML Designer">Ctrl+Shift+\</Shortcut>
+          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="XAML Designer">Ctrl+Shift+·</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="XAML Designer">Ctrl+·</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="Text Editor">Ctrl+Shift+/</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="XAML Designer">Ctrl+Shift+/</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Global">Ctrl+`</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Text Editor">Ctrl+`</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="XAML Designer">Ctrl+`</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_GotoContainingDeclaration" Scope="Text Editor">Ctrl+[</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_GotoContainingDeclaration" Scope="XAML Designer">Ctrl+[</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="Text Editor">F12</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="XAML Designer">F12</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="XAML Designer">Ctrl+/</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="Text Editor">Ctrl+/</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Global">Ctrl+Alt+,</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Text Editor">Ctrl+Alt+,</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="XAML Designer">Ctrl+Alt+,</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Global">Ctrl+Alt+.</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Text Editor">Ctrl+Alt+.</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="XAML Designer">Ctrl+Alt+.</Shortcut>
+          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="Global">Ctrl+Shift+[</Shortcut>
+          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="Text Editor">Ctrl+Shift+[</Shortcut>
+          <Shortcut Command="ReSharper_SelectContainingDeclaration" Scope="XAML Designer">Ctrl+Shift+[</Shortcut>
+          <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="Global">F12</Shortcut>
+          <RemoveShortcut Command="Image.ZoomOut" Scope="VC Image Editor">Ctrl+Shift+,</RemoveShortcut>
+          <RemoveShortcut Command="TestExplorer.OpenTest" Scope="Test Explorer">F12</RemoveShortcut>
+          <RemoveShortcut Command="Window.ActivateWindowSearch" Scope="Global">Alt+`</RemoveShortcut>
+          <RemoveShortcut Command="Edit.NavigateTo" Scope="Global">Ctrl+,</RemoveShortcut>
+          <RemoveShortcut Command="View.ZoomOut" Scope="Global">Ctrl+Shift+,</RemoveShortcut>
+          <RemoveShortcut Command="Edit.ShowNavigateMenu" Scope="Text Editor">Alt+`</RemoveShortcut>
+          <RemoveShortcut Command="MoveLeftEdgetotheleft" Scope="XAML Designer">Ctrl+Shift+,</RemoveShortcut>
+          <Shortcut Command="ReSharper_OccurrenceBrowserFilterShowOnlyWrite" Scope="Global">Ctrl+Shift+Alt+,</Shortcut>
+          <Shortcut Command="ReSharper_OccurrenceBrowserFilterShowOnlyRead" Scope="Global">Ctrl+Shift+Alt+.</Shortcut>
         </UserShortcuts>
       </KeyboardShortcuts>
     </Category>

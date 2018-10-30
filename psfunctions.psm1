@@ -67,7 +67,7 @@ function open-projects {
         $so.Add($obj)
     }
     $so | Format-Table -AutoSize
-    $choice = Read-Host "Enter a number to open a vs solution or letter x to exit: " 
+    $choice = Read-Host "Enter a number to open a vs solution or letter x to exit" 
     if($choice -eq "x"){
         Write-Host -ForegroundColor red "exited selection" -BackgroundColor black
     }
