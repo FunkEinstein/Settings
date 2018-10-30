@@ -695,6 +695,10 @@
           <RemoveShortcut Command="MoveLeftEdgetotheleft" Scope="XAML Designer">Ctrl+Shift+,</RemoveShortcut>
           <Shortcut Command="ReSharper_OccurrenceBrowserFilterShowOnlyWrite" Scope="Global">Ctrl+Shift+Alt+,</Shortcut>
           <Shortcut Command="ReSharper_OccurrenceBrowserFilterShowOnlyRead" Scope="Global">Ctrl+Shift+Alt+.</Shortcut>
+          <Shortcut Command="ReSharper_TreeModelBrowserExpandAll" Scope="Global">Ctrl+Shift+Alt+Num +</Shortcut>
+          <Shortcut Command="ReSharper_TreeModelBrowserCollapseAll" Scope="Global">Ctrl+Shift+Alt+-</Shortcut>
+          <Shortcut Command="ReSharper_TreeModelBrowserExpandAll" Scope="Global">Ctrl+Shift+Alt+=</Shortcut>
+          <Shortcut Command="ReSharper_TreeModelBrowserCollapseAll" Scope="Global">Ctrl+Shift+Alt+Num -</Shortcut>
         </UserShortcuts>
       </KeyboardShortcuts>
     </Category>
