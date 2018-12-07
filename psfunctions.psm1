@@ -40,6 +40,11 @@ function search {
     start $fullPath
 }
 
+function run-postgres {
+    $env:PGPASSWORD = '123QSX456cft'
+    psql -h localhost -p 5432 -U postgres
+}
+
 function open-projects {
     Write-Host " " 
     Write-Host "Listing all visual studio solutions" -ForegroundColor yellow
@@ -76,10 +81,6 @@ function open-projects {
         Write-Host -ForegroundColor Yellow "Opening VS solution:" $so[$choice].name
         Start-Process $so[$choice].fullname
     }
-}
-
-function docs {
-    start "D:\Documents"
 }
 
 function add-path {

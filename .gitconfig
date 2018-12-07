@@ -1,6 +1,6 @@
 [core]
-	autocrlf = true
 	pager = cat
+	autoclr = false
 [user]
 	name = Viacheslav Bogatikov
 	email = v.bohatikov@gmail.com
