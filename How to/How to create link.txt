@@ -1,5 +1,10 @@
 mklink [[/d] | [/h] | [/j]] <Link> <Target>
 Link - Specifies the name of the symbolic link that is being created.
 Target - Specifies the path (relative or absolute) that the new symbolic link refers to.
+/d - for creating link for directory
+/h - for creating hard link
+/j - for creating junction
 
 mklink C:\Users\Viacheslav\.gitconfig D:\Projects\.gitconfig
+
+P.S. You should set full path to link and target!

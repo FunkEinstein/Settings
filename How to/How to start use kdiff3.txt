@@ -1,0 +1,4 @@
+Utility kdiff3 can be installed using choco utility.
+After installation you should add path to unitily's bin folder(C:\Program Files\kdiff3) to system variable 
+PATH(if that wasn't already there). That can be done by add-path command that contains in ps-default module.
+Path to kdiff3 using in gitconfig too so you should be aware about that and check after installation.

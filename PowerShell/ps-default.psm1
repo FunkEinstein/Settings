@@ -1,7 +1,15 @@
 ﻿# Should be located in %DocumentFolder%\WindowsPowerShall folder by mklink
 
-function change-functions {
-    start "C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe" $PSScriptRoot\psfunctions.psm1
+function ps-default {
+    start PowerShell_ISE $PSScriptRoot\ps-default.psm1
+}
+
+function ps-local {
+    start PowerShell_ISE $PSScriptRoot\ps-local.psm1
+}
+
+function ps-profile {
+    start PowerShell_ISE $PSScriptRoot\Microsoft.PowerShell_profile.ps1
 }
 
 function npp { 
@@ -38,11 +46,6 @@ function search {
     $fullPath = $path + $query
 
     start $fullPath
-}
-
-function run-postgres {
-    $env:PGPASSWORD = '123QSX456cft'
-    psql -h localhost -p 5432 -U postgres
 }
 
 function open-projects {

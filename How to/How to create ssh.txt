@@ -1,0 +1,2 @@
+After git installation you should add path to git's bin folder(C:\Program Files\Git\bin\) to system variable PATH. 
+That can be done by add-path command that contains in ps-default module.

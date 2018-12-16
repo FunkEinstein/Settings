@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2018-12-07 19:37:33" build="180626">
+		<key name=".Vanilla" modified="2018-12-16 16:57:19" build="180626">
 			<value name="StartType" type="hex" data="02"/>
 			<value name="CmdLine" type="string" data=""/>
 			<value name="StartTasksFile" type="string" data=""/>
@@ -696,8 +696,8 @@
 				<value name="Count" type="long" data="0"/>
 			</key>
 			<value name="CmdLineHistory" type="multi">
-				<line data="{Shells::postgresql}"/>
 				<line data="{Shells::cmd (Admin)}"/>
+				<line data="{Shells::postgresql}"/>
 				<line data="{Bash::Git bash}"/>
 				<line data='"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"'/>
 				<line data="{Shells::PowerShell (Admin)}"/>

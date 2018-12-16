@@ -5,7 +5,7 @@ if not "%1"=="" (
 	goto call
 )
 
-set /p email=Write your email:
+set /p email=Write your email: 
 
 :call
 echo ssh-keygen -t rsa -C "%email%"
